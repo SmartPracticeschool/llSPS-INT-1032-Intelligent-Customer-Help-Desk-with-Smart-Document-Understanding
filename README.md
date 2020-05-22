@@ -22,4 +22,5 @@ Create an IBM Cloud Functions web action that allows Watson Assistant to post qu
 Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
 
 Final node-red app link : https://node-red-kygew.eu-gb.mybluemix.net/ui
+
 Project video link : https://drive.google.com/file/d/1H0INt-MJHLaorqp6QfV7zjitD4-raOui/view?usp=sharing

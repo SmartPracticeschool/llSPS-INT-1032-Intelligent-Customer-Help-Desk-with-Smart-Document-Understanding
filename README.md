@@ -25,4 +25,4 @@ Final node-red app link : https://node-red-kygew.eu-gb.mybluemix.net/ui
 
 Project video link : https://drive.google.com/file/d/1H0INt-MJHLaorqp6QfV7zjitD4-raOui/view?usp=sharing
 
-Youtube video link : https://youtu.be/bnN1FPiHTb4
+Youtube video link : https://youtu.be/F_aczoBo-vs
